@@ -1,10 +1,6 @@
----
-
 # 👋 Olá, eu sou o Luiz Vinícius!
 
 > 🚀 **Desenvolvedor de Software** | Apaixonado por transformar códigos em soluções incríveis.
-
----
 
 ### 👨‍💻 Sobre Mim
 
