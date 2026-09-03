@@ -6,7 +6,7 @@
 
 * 🎯 **Foco:** Criar aplicações web/mobile modernas, rápidas e intuitivas.
 * 💡 **Especialidade:** Interfaces limpas (UX/UI) e backends eficientes.
-* 📍 **Localização:** Campo Grande, MS 🇧🇷
+* 📍 **Localização:** Florianópolis, SC 🇧🇷
 * 📈 **Objetivo:** Escrever código limpo, aprender constantemente e gerar impacto real.
 
 ---
