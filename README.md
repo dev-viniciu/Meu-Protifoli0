@@ -14,7 +14,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 * **Frontend:** React • TypeScript • HTML5/CSS3 • Tailwind
-* **Backend:** Node.js • Python • REST APIs
+* **Backend:** Node.js • JavaScript • REST APIs
 * **Ferramentas:** Git • GitHub • VS Code • Docker
 
 ---
