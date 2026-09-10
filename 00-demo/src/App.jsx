@@ -4,8 +4,8 @@ function App() {
  
   return (
   <div className="cont-app">
-    <h1>Trabalhando com React</h1>
-    <h2>Onde posso trampar como dev ?</h2>
+    <h1>TRABALHANDO COM REACT</h1>
+    <h2>ONDE POSSO TRAMPAR COMO DEV</h2>
     <ul>
   <li><strong>Empresas e Software Houses:</strong> Consultorias e fábricas de software que desenvolvem aplicações sob demanda para terceiros.</li>
   <br />
@@ -18,7 +18,7 @@ function App() {
   <li><strong>Setor Público:</strong> Órgãos governamentais e universidades por meio de estágios, contratos temporários ou concursos públicos para cargos técnicos.</li>
 </ul>
 
-     <h2>Trampo com tecnologia mas sem programação ?</h2>
+     <h2>TRAMPO COM TECNOLOGIA SEM PROGAMAÇÃO</h2>
      <ul>
      <li>Product Management & Negócios</li>
      <br />
@@ -32,7 +32,8 @@ function App() {
      <br />
      </ul>
      
-     <h2>Vai fazer faculdade de outra coisa ? </h2>
+     <h2>VAI FAZER FACULDADE DE OUTRA COISA 
+       </h2>
      <ul>
      <li><strong>Direito:</strong> Resumos doutrinários, peças jurídicas e simulados.</li>
      <br />
