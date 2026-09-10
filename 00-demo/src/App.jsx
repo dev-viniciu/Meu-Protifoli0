@@ -18,7 +18,7 @@ function App() {
   <li><strong>Setor Público:</strong> Órgãos governamentais e universidades por meio de estágios, contratos temporários ou concursos públicos para cargos técnicos.</li>
 </ul>
 
-     <h2>TRAMPO COM TECNOLOGIA SEM PROGAMAÇÃO</h2>
+     <h2>TRAMPO COM TECNOLOGIA SEM PROGRAMAÇÃO</h2>
      <ul>
      <li>Product Management & Negócios</li>
      <br />
