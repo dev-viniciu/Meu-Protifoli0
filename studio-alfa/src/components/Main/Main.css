@@ -30,7 +30,12 @@ background-color: black;
 .btn-primary, .btn-secondary {
   text-decoration: none; /* Remove o sublinhado padrão do link */
 }
-
+.btn-secondary{
+  background-color: white;
+ font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  color: #ffffff; 
+}
 
 
 
