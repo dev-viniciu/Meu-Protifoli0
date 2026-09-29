@@ -1,8 +1,7 @@
 .header { 
-  border-bottom: 1px solid var(--cor-borda, #eaeaea); 
+  border-bottom: 1px solid color-mix(in srgb, var(--cor-borda, #eaeaea) 50%, transparent); 
   padding: 16px 0; 
-
-} 
+}
 
 
 .header-container { 
