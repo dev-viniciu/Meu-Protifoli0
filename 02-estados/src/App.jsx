@@ -5,12 +5,12 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [saida, setSaida] = useState(0)
 
   return (
     <>
     <div className='app'>
-<h1>Estados</h1>
+<h1></h1>
     </div>
     </>
   )
