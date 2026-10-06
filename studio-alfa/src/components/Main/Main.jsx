@@ -2,6 +2,7 @@ import { LayoutGrid, Smartphone, Rocket } from 'lucide-react';
 import './Main.css';
 import ServicoCard from '../ServicoCard/ServicoCard';
 
+
 function Main() {
   return (
     <main className="main">
