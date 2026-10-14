@@ -26,8 +26,8 @@ function App() {
     }
   }
  function validarMaiorNumero (){
-    let a = 20
-    let b = 15
+    let a = 20;
+    let b = 15;
     if ( a >=  b) {
     setSaida(20)
   }
@@ -46,6 +46,7 @@ function App() {
       <p>Resultado: {saida}</p>
     </div>
   );
+}
 }
 
 export default App;
