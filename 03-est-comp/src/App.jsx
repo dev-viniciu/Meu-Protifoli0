@@ -7,6 +7,8 @@ import Fumaca from './components/Fumaca'
 import Eventos from './components/Eventos'
 import Palco  from './components/Palco'
 import Transporte from './components/Transporte'
+import Comando from './components/Comando'
+import Sistema from './components/Sistema'
 
 function App() {
   
@@ -14,6 +16,8 @@ function App() {
   return (
     <div className="app">
       <h1>03 estados e componentes</h1>
+      <Sistema/>
+      <Comando/>
       <Transporte/>
       <Palco/>
       <Eventos/>
