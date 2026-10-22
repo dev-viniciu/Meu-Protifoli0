@@ -1,5 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
+
 function Ex0082() {
     const [inputNumero1,setInputNumero1] = useState('')
     const [inputNumero2,setInputNumero2] = useState('')
@@ -7,10 +8,16 @@ function Ex0082() {
     const [inputNumero4,setInputNumero4] = useState('')
     const [inputNumero5,setInputNumero5] = useState('')
     const [resultado,setResultado] = useState('Digite um número e clique em sortear')
+    
     function sortearNumeros(){
         let numeros = [inputNumero1,inputNumero2,inputNumero3,inputNumero4,inputNumero5]
-        setResultado(`O número sorteado é: ${numeros[Math.floor(Math.random() * numeros.length)]}`)
+        let numeroSorteado = numeros[Math.floor(Math.random() * numeros.length)]
+        
+        // Agora o nome da variável está correto!
+        let risadas = "ho ".repeat(Number(numeroSorteado))
+        setResultado(risadas)
     }
+
   return (
     <div className='demo'>
         <h1>Ho Ho Ho</h1>
@@ -52,9 +59,11 @@ function Ex0082() {
        />
       
        <button onClick={sortearNumeros}>Sortear Números</button>
+       <br />
        {resultado}
     </div>
   )
 }
 
 export default Ex0082
+
